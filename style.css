@@ -1,8 +1,4 @@
-h1 h2 h3 p {
-	padding:0;
-	border:0;
-	margin:0;
-{
+
    
 body{
    font: 16px Helvetica, Sans-Serif;
@@ -20,7 +16,7 @@ body{
     padding: 25px 0px 25px 0;
 }
 
-.name h1{
+h1{
   display:inline;
 }
 
