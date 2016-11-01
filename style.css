@@ -12,12 +12,12 @@ header{
 
 .contact-info p {
    line-height: 5px;
+   font-size: 12px;
 }
 
 .summary p {
     padding: 25px 0px 25px 0;
     line-height: 10px;
-    font-size: 12px;
 }
 
 h1{
