@@ -17,7 +17,7 @@ header{
 
 .summary p {
     padding: 25px 0px 25px 0;
-    line-height: 10px;
+    line-height: 15px;
 }
 
 h1{
@@ -29,8 +29,6 @@ figure {
   display: inline;
   float:right;
   padding:0 20px 0px 0;
-  border-style: solid;
-	  
 }
 
 section {
