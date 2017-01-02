@@ -8,7 +8,9 @@
 body{
    font-family: Helvetica, Sans-Serif;
    line-height: 16px;
-   background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/pink_rice.png);
+   background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/pink_rice.png),
+	   url(pinkbow.jpg) bottom repeat-y;
+	
    width: 800px; margin: 20px auto 20px;
 }
 
