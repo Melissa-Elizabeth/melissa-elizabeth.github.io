@@ -52,7 +52,7 @@ ul {
 
 @font-face {
 	font-family: 'Courgette';
-	src: local('Courgette-Regular.eot');
+	src: url(https://fonts.gstatic.com/l/font?kit=u6HYObzniXzlJI-YQn9g8VuHtXWHj2cx-icWe1VK5FknlS51ow05UK39MGaiilCWOj-Ywy1tKKumiEblOkS84g) format('woff2');
 	font-style: normal;
 	font-weight: normal;
 }
