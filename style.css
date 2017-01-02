@@ -23,8 +23,9 @@ body{
 .Pink-Bow h1 {  
   text-align:center;
   color: #ffffff;
-  transform: translate(20px,50px);
-  font-size: 30px;
+  transform: translate(30px,80px);
+  font-size: 2em;
+  font-weight: bold;
 }
 	
 header{
