@@ -28,9 +28,11 @@ header{
     font-family: 'Courgette', Helvetica, Sans-Serif;
 }
 
-h1{
+.name h1{
   display:block; 
-  float:center;
+  background:white; 
+  text-align:center; 
+  position:relative
 }
 
 figure {
