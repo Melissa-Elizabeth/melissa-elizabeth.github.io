@@ -13,17 +13,22 @@ body{
 	
    width: 800px; margin: 20px auto 20px;
 }
-
+.Pink-Bow {
+	width: 599px;
+	height: 209px;
+	background:#ffffff url(pinkbow.jpg) top center no-repeat;
+	
+.Pink-Bow h1 {
+  display:block;  
+  text-align:center;
+  color: #ffffff;
+	}
+	
 header{
         padding: 15px 25px 15px 25px;
 	margin: 4% 10% 4% 10%;
 	
 }
-
-.Pink-Bow {
-	width: 599px;
-	height: 209px;
-	background:#ffffff url(pinkbow.jpg) top center no-repeat;
 	
 .contact-info p {
    line-height: 5px;
@@ -36,11 +41,7 @@ header{
     font-family: 'Courgette', Helvetica, Sans-Serif;
 }
 
-.Pink-Bow h1 {
-  display:block;  
-  text-align:center;
-  color: #ffffff;
-	}
+
   
 
 figure {
