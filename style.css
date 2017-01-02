@@ -23,7 +23,7 @@ header{
 .Pink-Bow {
 	width: 800px;
 	height: 100px;
-	background: url(pinkbow.jpg) top center no-repeat;
+	background:#ffffff url(pinkbow.jpg) top center no-repeat;
 	
 .contact-info p {
    line-height: 5px;
