@@ -33,7 +33,8 @@ header{
   display:block; 
   background:white; 
   text-align:center; 
-  position:relative
+  position:relative;
+  padding: 10px 10px 10px 10px;
 }
 
 figure {
