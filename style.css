@@ -17,13 +17,14 @@ body{
 .Pink-Bow {
 	width: 599px;
 	height: 209px;
+	border-radius: 25px;
 	background:#ffffff url(pinkbow.jpg) top center no-repeat;
 }
 	
 .Pink-Bow h1 {  
   text-align:center;
   color: #ffffff;
-  transform: translate(30px,80px);
+  transform: translate(50px,130px);
   font-size: 2em;
   font-weight: bold;
 }
