@@ -52,7 +52,7 @@ ul {
 
 @font-face {
 	font-family: 'Courgette';
-	src: url(https://fonts.google.com/specimen/Courgette?selection.family=Open+Sans);
+	src: url(https://fonts.googleapis.com/css?family=Courgette);
 	font-style: normal;
 	font-weight: normal;
 }
