@@ -36,12 +36,12 @@ header{
     font-family: 'Courgette', Helvetica, Sans-Serif;
 }
 
-h1 {
+.Pink-Bow h1 {
   display:block;  
-  text-align:center; 
-  position:relative;
-  padding: 10px 10px 10px 10px;
-}
+  text-align:center;
+  color: #ffffff;
+	}
+  
 
 figure {
   display: inline;
