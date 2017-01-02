@@ -48,6 +48,13 @@ h2 {
 ul {
 	list-style-type: square;
 }
+
+@font-face {
+	font-family: 'Courgette';
+	src: url(https://fonts.google.com/specimen/Courgette?selection.family=Open+Sans);
+	font-style: normal;
+	font-weight: normal;
+}
 	
 	
 	
