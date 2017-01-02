@@ -13,13 +13,11 @@ body{
 }
 
 header{
-	display: block;
         padding: 15px 25px 15px 25px;
 	
 }
 
 .contact-info p {
-   display: inline;
    line-height: 5px;
    font-size: 90%;
 }
