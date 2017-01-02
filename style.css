@@ -18,6 +18,7 @@ header{
 }
 
 .contact-info p {
+   display: inline;
    line-height: 5px;
    font-size: 90%;
 }
