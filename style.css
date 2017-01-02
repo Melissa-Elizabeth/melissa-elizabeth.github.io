@@ -1,3 +1,10 @@
+@font-face {
+	font-family: 'Courgette';
+	src: url(https://fonts.gstatic.com/l/font?kit=u6HYObzniXzlJI-YQn9g8VuHtXWHj2cx-icWe1VK5FknlS51ow05UK39MGaiilCWOj-Ywy1tKKumiEblOkS84g) format('woff2');
+	font-style: normal;
+	font-weight: normal;
+}
+
 body{
    font-family: Helvetica, Sans-Serif;
    line-height: 16px;
@@ -50,12 +57,7 @@ ul {
 	list-style-type: square;
 }
 
-@font-face {
-	font-family: 'Courgette';
-	src: url(https://fonts.gstatic.com/l/font?kit=u6HYObzniXzlJI-YQn9g8VuHtXWHj2cx-icWe1VK5FknlS51ow05UK39MGaiilCWOj-Ywy1tKKumiEblOkS84g.woff2) format('woff2');
-	font-style: normal;
-	font-weight: normal;
-}
+
 	
 	
 	
