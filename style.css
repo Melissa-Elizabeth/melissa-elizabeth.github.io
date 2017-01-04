@@ -19,6 +19,7 @@ body{
 	height: 209px;
 	border-radius: 25px;
 	background:#ffffff url(pinkbow.jpg) top center no-repeat;
+	transform: translate(100px,0px);
 }
 	
 .Pink-Bow h1 {  
